@@ -17,7 +17,7 @@ title: Oren Fromberg
 email: orenfromberg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a software engineer who is passionate about web development.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: o_m_f__g
 github_username:  orenfromberg
